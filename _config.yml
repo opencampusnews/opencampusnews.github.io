@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Where student journalists hack higher education
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "opencampusnews.github.io" # the base hostname & protocol for your site
-twitter_username: nicolieolie95
+twitter_username: opencampusnews
 github_username:  opencampusnews
 
 # Build settings
