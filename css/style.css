@@ -9,3 +9,11 @@ body {
 #tagline {
   color: white;
 }
+
+a {
+  color: #66bb6a;
+}
+
+a:visited {
+  color: #66bb6a;
+}
