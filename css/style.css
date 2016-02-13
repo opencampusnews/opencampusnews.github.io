@@ -6,6 +6,11 @@ body {
   background-color: #a7ffeb;
 }
 
+.logo {
+  height: 150px;
+  width: 150px;
+}
+
 #tagline {
   color: #607d8b;
 }
